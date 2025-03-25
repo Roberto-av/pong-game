@@ -1,6 +1,6 @@
 let ball, leftPaddle, rightPaddle;
 let leftScore = 0, rightScore = 0;
-let maxScore = 1;
+let maxScore = 10;
 let gameEnded = false; 
 
 function setup() {
